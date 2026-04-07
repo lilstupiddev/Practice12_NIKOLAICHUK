@@ -1,0 +1,6 @@
+1,bob112@example.com,NEW,1000
+2,bobik123@example.com,PAID,2500
+3,bob@example.com,FAILED,500
+4,max123@example.com,PAID,3000
+5,invalid@example.com,INVALID,2000
+6,invalid2@example.com,PAID,
